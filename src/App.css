@@ -7,6 +7,23 @@
   pointer-events: none;
 }
 
+.word-color{
+
+  color: yellowgreen;
+}
+
+.word-color1{
+
+  color: blue;
+}
+
+input{
+
+  width: 80%;
+  height: 500px;
+  box-shadow: 100px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
